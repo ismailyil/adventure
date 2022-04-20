@@ -9212,7 +9212,7 @@ aeF:function aeF(){},
 A2(){var s=0,r=A.w(t.H),q,p,o
 var $async$A2=A.r(function(a,b){if(a===1)return A.t(b,r)
 while(true)switch(s){case 0:s=2
-return A.p($.nI().A9(0,".env"),$async$A2)
+return A.p($.nI().A9(0,"dotenv"),$async$A2)
 case 2:if($.Q==null)A.H4()
 $.Q.toString
 s=3

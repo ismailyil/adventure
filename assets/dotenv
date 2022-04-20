@@ -1,0 +1,5 @@
+API_BASE_URL=http://app-pos-backend.era.k8s
+#API_BASE_URL='http://10.0.2.2:5000'
+#API_BASE_URL='http://localhost:5000'
+AWS_USER_POOL_ID='eu-central-1_AakSEPDsn'
+AWS_CLIENT_ID='clr2s477efgijg9kuaavu3sor'
